@@ -10,6 +10,10 @@ System.config({
     "@angular/platform-browser-dynamic": "libs/@angular/platform-browser-dynamic.umd.min.js",
     "rxjs": "libs/rxjs.umd.min.js",
     "rxjs/operators": "libs/rxjs.umd.min.js",
-    "jquery": "./libs/jquery.min.js"
+    "jquery": "./libs/jquery.min.js",
+    "@angular/elements": "./libs/@angular/elements.umd.min.js",
+    "@angular/platform-webworker": "./libs/@angular/platform-webworker.umd.min.js",
+    "@angular/platform-webworker-dynamic": "./libs/@angular/platform-webworker-dynamic.umd.min.js",
+    "@angular/service-worker": "./libs/@angular/service-worker.umd.min.js"
   }
 });
